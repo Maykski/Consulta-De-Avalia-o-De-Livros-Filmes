@@ -1,0 +1,3 @@
+- Criação do banco de dados SQLAlchemy.
+- Criação das listas globais.
+- Suporte nas onfiguração do banco de dados.
